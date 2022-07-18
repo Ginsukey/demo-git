@@ -20,3 +20,8 @@ Pour sauvegarder le commit :
 ```sh
 git commit -m "message"
 ```
+## Créer un gitk
+Pour voir tous les fichiers et les branches :
+```sh
+gitk
+```
